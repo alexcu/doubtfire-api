@@ -1,0 +1,5 @@
+ghostscript
+imagemagick
+libmagickwand-dev
+libmagic-dev
+python-pygments
